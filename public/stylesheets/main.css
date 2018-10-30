@@ -1,0 +1,11 @@
+* {
+    display: block
+}
+
+.top-button {
+    width : 33%
+}
+
+.top {
+    background-color: red
+}
